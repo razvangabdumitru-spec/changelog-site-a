@@ -1,0 +1,12 @@
+{
+  "recommended_repo": "changelog-site-a",
+  "top_reasons": [
+    "Both repositories were empty and changelog-site-a is chosen as a clean baseline to initialize from",
+    "No existing files to conflict with site generator or CI setup",
+    "Easier to start with an empty default branch and add chosen site generator/files"
+  ],
+  "observed_signals": {
+    "changelog-site-a": {"languages": [], "has_ci": false, "has_license": false, "has_contributing": false, "has_pages_config": false},
+    "changelog-site-b": {"languages": [], "has_ci": false, "has_license": false, "has_contributing": false, "has_pages_config": false}
+  }
+}
